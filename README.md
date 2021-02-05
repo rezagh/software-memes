@@ -1,5 +1,4 @@
-# Software Memes
-memes and quick toughts about software, development, architecture
+Memes and quick thoughts about software, development and architecture
 
 
 # Architecture
