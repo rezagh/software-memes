@@ -1,17 +1,17 @@
 Memes and quick thoughts about software, development and architecture
 
 
-# Architecture
+# Architecture Technical
 - Demonstration defeats discussion
 - There Is No One-Size-Fits-All Solution
 - think about performance early
 - software architecture is about balancing between technical activities and business requirements 
 - IT and business are like rings on a change. Business is the first ring but then they are inter-twined.
 - Simplicity Before Generality, Use Before Reuse
-- Architect leads technical meetings. 
+- Architect leads technical meetings
 - Architects are like pilots that at times seem like doing nothing but is watchful
 - If schedule is to be shortened, cut non critical functionalities instead of cutting corners affecting the quality e.g. not doing unit tests.
-- The vasa  ship story: The ship’s architect, in an attempt to fulfill all of the king’s wishes, created an unbalanced and unstable ship. 
+- `The vasa ship` story: The ship’s architect, in an attempt to fulfill all of the king’s wishes, created an unbalanced and unstable ship. 
 - The first rule of architecture is that Architecture is a trade off. See Architecture Tradeoff Analysis Method (ATAM) and the Cost Benefit Analysis Method (CBAM).
 - When you have two option that indicates uncertainty. Use the uncertainty as a driver to determine where you can defer commitment to details and where you can partition and abstract to reduce the significance of design decisions
 - Architecture represents the significant design decisions that shape a system, where significant is measured by cost of change
@@ -33,6 +33,10 @@ Memes and quick thoughts about software, development and architecture
 - `Parkinson's law`: work expands so as to fill the time available for its completion
 - Fast is not a requirement because you cannot measure it. Quantify your requirements 
 
+# Architecture Non Technical
+- Keep challenging directly and show you care personally
+- As an architect you have to explains things in very simple terms
+- As you step back from people management you have to take more technical leadership and have a stronger voice within the engineering team
 
 
 
