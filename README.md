@@ -39,4 +39,5 @@ memes and quick toughts about software, development, architecture
 
 # References
 - Neal ford
-- 
+- Chris Richardson
+- Gregor Hohpe
