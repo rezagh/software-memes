@@ -41,6 +41,8 @@ Memes and quick thoughts about software, development and architecture
 
 
 # References
-- Neal ford
+- Neal ford – http://nealford.com/
 - Chris Richardson
 - Gregor Hohpe
+- Kim Scott – https://www.radicalcandor.com/
+
