@@ -24,8 +24,6 @@ Memes and quick thoughts about software, development and architecture
 - The act of discussing something always helps to show its weaknesses.
 - If you find yourself trying to shoe-horn your favorite patterns into a problem space where they don’t apply, you may be a victim of `pattern pathology`
 - Don’t fall in love with your `system metaphor` — only use it for exploratory communication purposes, and don’t let it turn on you.
-- Involve ops early in the dev cycle
-- RACI matrix - Responsible, Accountable, Consulted, and Informed https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 - Architects always start with customer
 - Defer some decisions to later. This is called `Last responsible moment`. It's is good because you make a decision when you know more about it
 - `Manson's Law of Avoidance`: The more something threatens your identity, the more you will avoid doing it
@@ -35,7 +33,7 @@ Memes and quick thoughts about software, development and architecture
 
 # Architecture Non Technical
 - Keep challenging directly and show you care personally
-- As an architect you have to explains things in very simple terms
+- As an architect you have to explains things in very simple terms over and over again
 - As you step back from people management you have to take more technical leadership and have a stronger voice within the engineering team
 
 
